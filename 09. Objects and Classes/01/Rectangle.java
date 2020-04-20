@@ -2,6 +2,20 @@
   By: Ahmed Moustafa
   E-mail: geekahmed1@gmail.com
  */
+
+            //UML Class Diagram                     
+/***************************************************
+*               Rectangle                          *  
+* ------------------------------------------------ *  
+* -width: double                                   *
+* -height: double                                  * 
+* +Rectangle()                                     *  
+* +Rectangle(width: double, height: double)        *
+* +getArea(): double                               *
+* +getPerimeter(): double                          *
+***************************************************/
+
+
 public class Rectangle {
     private double width ;
     private double height;
