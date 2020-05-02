@@ -1,14 +1,5 @@
-package com.geekahmed;
-import java.util.Scanner;
 /*
- * By: Ahmed Moustafa.
- * E-Mail: geekahmed1@gmail.com
- */
-public class Main {
-    private static Scanner input = new Scanner(System.in);
-    public static void main(String[] args) {
-        System.out.print("Enter the side: ");
-        double s = input.nextDouble();
-        System.out.println("The area of the hexagon is " + ((6 * Math.pow(s, 2)) / (4 * Math.tan(Math.PI / 6))));
-    }
-}
+By: Ahmed Moustafa (a.k.a geekahmed)
+Email: geekahmed1@gmail.com
+linkedIn: https://www.linkedin.com/in/geekahmed
+*/

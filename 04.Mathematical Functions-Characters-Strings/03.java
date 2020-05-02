@@ -1,12 +1,5 @@
-package com.company;
-
-public class Main {
-
-    public static void main(String[] args) {
-	System.out.println("   J");
-	System.out.println("J aaa    v    vaaa");
-	System.out.println("J J  aa   v v    a a");
-	System.out.println("J  aaaa    v     aaaa");
-
-    }
-}
+/*
+By: Ahmed Moustafa (a.k.a geekahmed)
+Email: geekahmed1@gmail.com
+linkedIn: https://www.linkedin.com/in/geekahmed
+*/

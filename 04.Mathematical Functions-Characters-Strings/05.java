@@ -1,9 +1,5 @@
-package com.company;
-
-public class Main {
-
-    public static void main(String[] args) {
-	double result = ((7.5*6.5) - (4.5*3)) / (47.5-5.5) ;
-	System.out.println(result);
-    }
-}
+/*
+By: Ahmed Moustafa (a.k.a geekahmed)
+Email: geekahmed1@gmail.com
+linkedIn: https://www.linkedin.com/in/geekahmed
+*/
